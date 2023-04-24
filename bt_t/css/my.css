@@ -1,0 +1,15 @@
+.btn-my {
+  border-radius: 20px;
+  color: #000;
+  background-color: #D9253F;
+  border-color: #DD213C;
+}
+.btn-my:hover {
+  color: #000;
+  background-color: #62B846;
+  border-color: #6DCB33;
+}
+.form-check-input:checked {
+  background-color: #D33E2B;
+  border-color: #CCB632;
+}
